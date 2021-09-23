@@ -38,6 +38,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 ### JavaScript
 [Programming basics on JavaScript 🇷🇺](https://youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0)
 
+[Deep JavaScript Book](https://exploringjs.com/deep-js/toc.html)
+
 ## Browser
 [Chromium University lectures (2020)](https://www.youtube.com/playlist?list=PL9ioqAuyl6ULp1f36EEjIN1vSBEfsb-0a)
 
