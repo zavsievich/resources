@@ -11,6 +11,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 ## Architecture
 [Clean architecture in the frontend 🇷🇺](https://youtu.be/h4WQRqNjmX0)
 
+[A quick introduction to clean architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
+
 [SOLID Book](https://ota-solid.vercel.app/)
 
 ## Algorithms
