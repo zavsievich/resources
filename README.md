@@ -105,3 +105,6 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [WebGL guide](https://xem.github.io/articles/webgl-guide.html)
 
 [WebGL Tutorial](https://www.tutorialspoint.com/webgl/index.htm)
+
+## Web Security
+[Stanford CS 253](https://web.stanford.edu/class/cs253/)
