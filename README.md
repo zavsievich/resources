@@ -4,6 +4,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 ## CS
 [From Nand to Tetris](https://www.nand2tetris.org/)
 
+[Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
+
 ## System design
 [Complete system design course](https://www.educative.io/path/scalability-system-design)
 
