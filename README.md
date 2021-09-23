@@ -10,6 +10,7 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 ## Architecture
 [Clean architecture in the frontend 🇷🇺](https://youtu.be/h4WQRqNjmX0)
+
 [SOLID Book](https://ota-solid.vercel.app/)
 
 ## Algorithms
@@ -29,4 +30,5 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 ### React
 [Build your own React](https://pomb.us/build-your-own-react)
+
 [React reconciler: How to write your own renderer 🇷🇺](https://www.youtube.com/watch?v=hpVFlpvPsYc)
