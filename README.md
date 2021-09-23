@@ -1,6 +1,9 @@
 # Learning resources
 Learning resources to develop skills across the frontend and related areas. PR's are welcome!
 
+## CS
+[From Nand to Tetris](https://www.nand2tetris.org/)
+
 ## System design
 [Complete system design course](https://www.educative.io/path/scalability-system-design)
 
