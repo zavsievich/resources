@@ -16,4 +16,4 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [How Blink works](https://docs.google.com/document/d/1aitSOucL0VHZa9Z2vbRJSyAIsAz24kX8LFByQ5xQnUg/edit)
 
 ## React
-[React reconciler: How to write your own renderer (ru)](https://www.youtube.com/watch?v=hpVFlpvPsYc)
+[React reconciler: How to write your own renderer (🇷🇺)](https://www.youtube.com/watch?v=hpVFlpvPsYc)
