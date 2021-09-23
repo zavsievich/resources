@@ -29,6 +29,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms)
 
 ## Programming
+[Frisby's Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+
 [Refactoring course](https://refactoring.guru/refactoring/course)
 
 [Design patterns book](https://refactoring.guru/design-patterns)
