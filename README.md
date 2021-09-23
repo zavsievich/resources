@@ -39,6 +39,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Web Browser Engineering](https://browser.engineering)
 
+[How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+
 ## Accessibility
 [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
 
