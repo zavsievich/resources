@@ -6,6 +6,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [SDLC Tutorial](https://www.tutorialspoint.com/sdlc/index.htm)
 
+[The System Design Primer](https://github.com/donnemartin/system-design-primer)
+
 [Operating system tutorial](https://www.tutorialspoint.com/operating_system/index.htm)
 
 ## Architecture
