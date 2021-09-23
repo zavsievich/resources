@@ -7,3 +7,6 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [SDLC Tutorial](https://www.tutorialspoint.com/sdlc/index.htm)
 
 [Operating system tutorial](https://www.tutorialspoint.com/operating_system/index.htm)
+
+## Browser
+[Browser rendering optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
