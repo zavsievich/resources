@@ -16,6 +16,9 @@ Learning resources to develop skills across the frontend and related areas. PR's
 ## Algorithms
 [Algorithms in JavaScript 🇷🇺](https://youtube.com/playlist?list=PLvWwA9iDlhHB1qp22la3mn01JuVOwyuqw)
 
+## Programming
+[Refactoring course](https://refactoring.guru/refactoring/course)
+
 ## Browser
 [Browser rendering optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 
