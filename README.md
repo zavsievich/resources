@@ -37,8 +37,6 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [Programming basics on JavaScript 🇷🇺](https://youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0)
 
 ## Browser
-[Browser rendering optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
-
 [Chromium University lectures (2020)](https://www.youtube.com/playlist?list=PL9ioqAuyl6ULp1f36EEjIN1vSBEfsb-0a)
 
 [How Blink works](https://docs.google.com/document/d/1aitSOucL0VHZa9Z2vbRJSyAIsAz24kX8LFByQ5xQnUg/edit)
@@ -46,6 +44,13 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [Web Browser Engineering](https://browser.engineering)
 
 [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+
+### Perfomance
+[Browser rendering optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
+
+[Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+
+[The Critical Request: How to Prioritise Requests to Improve Speed](https://calibreapp.com/blog/critical-request)
 
 ## Accessibility
 [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
