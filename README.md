@@ -11,9 +11,9 @@ Learning resources to develop skills across the frontend and related areas. PR's
 ## Browser
 [Browser rendering optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 
-[Chromium University lectures(2020)](https://www.youtube.com/playlist?list=PL9ioqAuyl6ULp1f36EEjIN1vSBEfsb-0a)
+[Chromium University lectures (2020)](https://www.youtube.com/playlist?list=PL9ioqAuyl6ULp1f36EEjIN1vSBEfsb-0a)
 
 [How Blink works](https://docs.google.com/document/d/1aitSOucL0VHZa9Z2vbRJSyAIsAz24kX8LFByQ5xQnUg/edit)
 
 ## React
-[React reconciler: How to write your own renderer(ru)](https://www.youtube.com/watch?v=hpVFlpvPsYc)
+[React reconciler: How to write your own renderer (ru)](https://www.youtube.com/watch?v=hpVFlpvPsYc)
