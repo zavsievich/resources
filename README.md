@@ -10,6 +10,7 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 ## Architecture
 [Clean architecture in the frontend 🇷🇺](https://youtu.be/h4WQRqNjmX0)
+[SOLID Book](https://ota-solid.vercel.app/)
 
 ## Algorithms
 [Algorithms in JavaScript 🇷🇺](https://youtube.com/playlist?list=PLvWwA9iDlhHB1qp22la3mn01JuVOwyuqw)
