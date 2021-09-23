@@ -53,6 +53,9 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
 
+### WebAssembly
+[WebAssembly: tame the dragon 🇷🇺](https://www.youtube.com/watch?v=ehPucx9he5U)
+
 ## Browser
 [Chromium University lectures (2020)](https://www.youtube.com/playlist?list=PL9ioqAuyl6ULp1f36EEjIN1vSBEfsb-0a)
 
