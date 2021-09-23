@@ -17,6 +17,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Drawing trees on canvas with L-systems, TypeScript, and OOP 🇷🇺](https://bespoyasov.ru/blog/generating-trees-on-canvas-using-typescript-and-oop/)
 
+[Featured sliced methodology 🇷🇺](https://feature-sliced.design/)
+
 ## Algorithms
 [Algorithms in JavaScript 🇷🇺](https://youtube.com/playlist?list=PLvWwA9iDlhHB1qp22la3mn01JuVOwyuqw)
 
