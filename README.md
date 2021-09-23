@@ -73,5 +73,7 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [React reconciler: How to write your own renderer 🇷🇺](https://www.youtube.com/watch?v=hpVFlpvPsYc)
 
+[Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+
 ## WebGL
 [WebGL Tutorial](https://www.tutorialspoint.com/webgl/index.htm)
