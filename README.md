@@ -24,6 +24,7 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 ## Frameworks
 [Build a frontend framework from scratch](https://mfrachet.github.io/create-frontend-framework)
+[Rethinking reactivity - Rich Harris](https://www.youtube.com/watch?v=AdNJ3fydeao)
 
 ### React
 [React reconciler: How to write your own renderer 🇷🇺](https://www.youtube.com/watch?v=hpVFlpvPsYc)
