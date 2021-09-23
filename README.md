@@ -13,7 +13,7 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [A quick introduction to clean architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
 
-[SOLID Book](https://ota-solid.vercel.app/)
+[SOLID Book 🇷🇺](https://ota-solid.vercel.app/)
 
 ## Algorithms
 [Algorithms in JavaScript 🇷🇺](https://youtube.com/playlist?list=PLvWwA9iDlhHB1qp22la3mn01JuVOwyuqw)
