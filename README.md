@@ -8,6 +8,9 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Operating system tutorial](https://www.tutorialspoint.com/operating_system/index.htm)
 
+## Architecture
+[Clean architecture in the frontend 🇷🇺](https://youtu.be/h4WQRqNjmX0)
+
 ## Browser
 [Browser rendering optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 
@@ -17,6 +20,3 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 ## React
 [React reconciler: How to write your own renderer 🇷🇺](https://www.youtube.com/watch?v=hpVFlpvPsYc)
-
-## Architecture
-[Clean architecture in the frontend 🇷🇺](https://youtu.be/h4WQRqNjmX0)
