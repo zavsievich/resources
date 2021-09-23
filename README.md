@@ -34,6 +34,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [How Blink works](https://docs.google.com/document/d/1aitSOucL0VHZa9Z2vbRJSyAIsAz24kX8LFByQ5xQnUg/edit)
 
+[Web Browser Engineering](https://browser.engineering)
+
 ## Frameworks
 [Build a frontend framework from scratch](https://mfrachet.github.io/create-frontend-framework)
 
