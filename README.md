@@ -45,6 +45,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Deep JavaScript Book](https://exploringjs.com/deep-js/toc.html)
 
+[JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
+
 ## Browser
 [Chromium University lectures (2020)](https://www.youtube.com/playlist?list=PL9ioqAuyl6ULp1f36EEjIN1vSBEfsb-0a)
 
