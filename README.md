@@ -21,7 +21,14 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Featured sliced methodology 🇷🇺](https://feature-sliced.design/)
 
-## Algorithms
+## Programming
+[Frisby's Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+
+[Refactoring course](https://refactoring.guru/refactoring/course)
+
+[Design patterns book](https://refactoring.guru/design-patterns)
+
+### Algorithms
 [Algorithms in JavaScript 🇷🇺](https://youtube.com/playlist?list=PLvWwA9iDlhHB1qp22la3mn01JuVOwyuqw)
 
 [Algorithms and data structures 🇷🇺](https://youtube.com/playlist?list=PLrS21S1jm43jz48qjdfYNpuIPgL3lNJ_o)
@@ -29,13 +36,6 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
 [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms)
-
-## Programming
-[Frisby's Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
-
-[Refactoring course](https://refactoring.guru/refactoring/course)
-
-[Design patterns book](https://refactoring.guru/design-patterns)
 
 ### JavaScript
 [Programming basics on JavaScript 🇷🇺](https://youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0)
