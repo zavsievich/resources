@@ -8,6 +8,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
+[Computer Science: Crash Course](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
 ## System design
 [Complete system design course](https://www.educative.io/path/scalability-system-design)
 
