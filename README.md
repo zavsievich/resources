@@ -41,6 +41,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Stark library](https://www.getstark.co/library/all/)
 
+[WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices-1.1/#aria_ex)
+
 ## Frameworks
 [Build a frontend framework from scratch](https://mfrachet.github.io/create-frontend-framework)
 
