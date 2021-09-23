@@ -27,6 +27,9 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Design patterns book](https://refactoring.guru/design-patterns)
 
+### JavaScript
+[Programming basics on JavaScript 🇷🇺](https://youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0)
+
 ## Browser
 [Browser rendering optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 
