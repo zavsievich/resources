@@ -58,17 +58,6 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [The Critical Request: How to Prioritise Requests to Improve Speed](https://calibreapp.com/blog/critical-request)
 
-## Accessibility
-[A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
-
-[Stark library](https://www.getstark.co/library/all/)
-
-[WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices-1.1/#aria_ex)
-
-[How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
-
-[Inclusive Components](https://inclusive-components.design/)
-
 ## Frameworks
 [Build a frontend framework from scratch](https://mfrachet.github.io/create-frontend-framework)
 
@@ -80,6 +69,23 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [React reconciler: How to write your own renderer 🇷🇺](https://www.youtube.com/watch?v=hpVFlpvPsYc)
 
 [Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+
+## UI
+### Animations
+[Animating Layouts with the FLIP Technique](https://css-tricks.com/animating-layouts-with-the-flip-technique/)
+
+[FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
+
+### Accessibility
+[A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
+
+[Stark library](https://www.getstark.co/library/all/)
+
+[WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices-1.1/#aria_ex)
+
+[How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
+
+[Inclusive Components](https://inclusive-components.design/)
 
 ## WebGL
 [WebGL Tutorial](https://www.tutorialspoint.com/webgl/index.htm)
