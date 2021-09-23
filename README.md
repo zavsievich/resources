@@ -10,3 +10,5 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 ## Browser
 [Browser rendering optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
+
+[Chromium University lectures(2020)](https://www.youtube.com/playlist?list=PL9ioqAuyl6ULp1f36EEjIN1vSBEfsb-0a)
