@@ -102,6 +102,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [Inclusive Components](https://inclusive-components.design/)
 
 ### WebGL
+[WebGL Fundamentals](https://webglfundamentals.org/)
+
 [WebGL guide](https://xem.github.io/articles/webgl-guide.html)
 
 [WebGL Tutorial](https://www.tutorialspoint.com/webgl/index.htm)
