@@ -19,6 +19,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 ## Programming
 [Refactoring course](https://refactoring.guru/refactoring/course)
 
+[Design patterns course](https://refactoring.guru/design-patterns)
+
 ## Browser
 [Browser rendering optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 
