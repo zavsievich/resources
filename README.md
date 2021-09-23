@@ -27,4 +27,5 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [Rethinking reactivity - Rich Harris](https://www.youtube.com/watch?v=AdNJ3fydeao)
 
 ### React
+[Build your own React](https://pomb.us/build-your-own-react)
 [React reconciler: How to write your own renderer 🇷🇺](https://www.youtube.com/watch?v=hpVFlpvPsYc)
