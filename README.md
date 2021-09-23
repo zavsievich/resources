@@ -65,6 +65,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices-1.1/#aria_ex)
 
+[How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
+
 [Inclusive Components](https://inclusive-components.design/)
 
 ## Frameworks
