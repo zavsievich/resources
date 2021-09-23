@@ -22,6 +22,12 @@ Learning resources to develop skills across the frontend and related areas. PR's
 ## Algorithms
 [Algorithms in JavaScript 🇷🇺](https://youtube.com/playlist?list=PLvWwA9iDlhHB1qp22la3mn01JuVOwyuqw)
 
+[Algorithms and data structures 🇷🇺](https://youtube.com/playlist?list=PLrS21S1jm43jz48qjdfYNpuIPgL3lNJ_o)
+
+[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+
+[Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms)
+
 ## Programming
 [Refactoring course](https://refactoring.guru/refactoring/course)
 
