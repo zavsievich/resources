@@ -39,3 +39,6 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [Build your own React](https://pomb.us/build-your-own-react)
 
 [React reconciler: How to write your own renderer 🇷🇺](https://www.youtube.com/watch?v=hpVFlpvPsYc)
+
+## WebGL
+[WebGL Tutorial](https://www.tutorialspoint.com/webgl/index.htm)
