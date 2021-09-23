@@ -15,6 +15,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [SOLID Book 🇷🇺](https://ota-solid.vercel.app/)
 
+[Drawing trees on canvas with L-systems, TypeScript, and OOP 🇷🇺](https://bespoyasov.ru/blog/generating-trees-on-canvas-using-typescript-and-oop/)
+
 ## Algorithms
 [Algorithms in JavaScript 🇷🇺](https://youtube.com/playlist?list=PLvWwA9iDlhHB1qp22la3mn01JuVOwyuqw)
 
