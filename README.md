@@ -46,6 +46,10 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms)
 
+[Coursera's Algorithms specialization](https://coursera.org/specializations/algorithms)
+
+[Coursera's Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
+
 ### JavaScript
 [Programming basics on JavaScript 🇷🇺](https://youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0)
 
