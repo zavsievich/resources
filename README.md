@@ -69,6 +69,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
+[What happens when](https://github.com/alex/what-happens-when)
+
 ### Perfomance
 [Browser rendering optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 
