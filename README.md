@@ -20,6 +20,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [Operating system tutorial](https://www.tutorialspoint.com/operating_system/index.htm)
 
 ## Architecture
+[DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+
 [Clean architecture in the frontend 🇷🇺](https://youtu.be/h4WQRqNjmX0)
 
 [A quick introduction to clean architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
