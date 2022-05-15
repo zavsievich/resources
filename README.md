@@ -19,6 +19,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Operating system tutorial](https://www.tutorialspoint.com/operating_system/index.htm)
 
+[Front-End Engineer](https://www.youtube.com/c/FrontEndEngineer)
+
 ## Architecture
 [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 
