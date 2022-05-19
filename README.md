@@ -1,6 +1,9 @@
 # Learning resources
 Learning resources to develop skills across the frontend and related areas. PR's are welcome!
 
+## Soft Skills
+[Software Engineering at Google 📕](https://abseil.io/resources/swe-book) 
+
 ## CS
 [From Nand to Tetris](https://www.nand2tetris.org/)
 
