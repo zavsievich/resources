@@ -66,6 +66,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Just JavaScript book by Dan Abramov](https://justjavascript.com/)
 
+[The this keyword in JavaScript. The Complete* Guide 🇷🇺](https://habr.com/ru/post/464163/)
+
 ### WebAssembly
 [WebAssembly: tame the dragon 🇷🇺](https://www.youtube.com/watch?v=ehPucx9he5U)
 
