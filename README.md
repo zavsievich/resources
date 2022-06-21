@@ -24,6 +24,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Front-End Engineer](https://www.youtube.com/c/FrontEndEngineer)
 
+[Frontend System Design Framework](https://medium.com/@wastecleaner/frontend-system-design-framework-5ba6e075b3b2)
+
 ## Architecture
 [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 
