@@ -39,6 +39,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Featured sliced methodology 🇷🇺](https://feature-sliced.design/)
 
+[Client-Side Architecture Basics [Guide]](https://khalilstemmler.com/articles/client-side-architecture/introduction/)
+
 ## Programming
 [Frisby's Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
