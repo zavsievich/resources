@@ -72,6 +72,9 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [The this keyword in JavaScript. The Complete* Guide 🇷🇺](https://habr.com/ru/post/464163/)
 
+### TypeScript
+[TypeScript type challenges](https://github.com/type-challenges/type-challenges)
+
 ### WebAssembly
 [WebAssembly: tame the dragon 🇷🇺](https://www.youtube.com/watch?v=ehPucx9he5U)
 
