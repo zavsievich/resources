@@ -41,6 +41,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Client-Side Architecture Basics [Guide]](https://khalilstemmler.com/articles/client-side-architecture/introduction/)
 
+[On the spot channel 🇷🇺](https://www.youtube.com/channel/UCZjbcYHfnt3atebf7KY6Tuw/videos)
+
 ## Programming
 [Frisby's Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
