@@ -52,7 +52,7 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Refactoring course](https://refactoring.guru/refactoring/course)
 
-[Design book](https://refactoring.guru/design-patterns)
+[Design patterns book](https://refactoring.guru/design-patterns)
 
 ### Algorithms
 [Algorithms in JavaScript 🇷🇺](https://youtube.com/playlist?list=PLvWwA9iDlhHB1qp22la3mn01JuVOwyuqw)
