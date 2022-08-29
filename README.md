@@ -19,7 +19,7 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Introduction to Computer Systems - Carnegie 2015](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&view=2&sortColumn=1&sortAscending=true&maxResults=250)
 
-[Live ompiler Explorer](https://godbolt.org/)
+[Live compiler Explorer](https://godbolt.org/)
 
 [Virtual Memory lecture](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)
 
