@@ -43,12 +43,16 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [On the spot channel 🇷🇺](https://www.youtube.com/channel/UCZjbcYHfnt3atebf7KY6Tuw/videos)
 
+[Designing Events-First Microservices](https://youtu.be/1hwuWmMNT4c)
+
+[Clean and Hexagonal Architectures for Dummies](https://medium.com/codex/clean-architecture-for-dummies-df6561d42c94)
+
 ## Programming
 [Frisby's Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 [Refactoring course](https://refactoring.guru/refactoring/course)
 
-[Design patterns book](https://refactoring.guru/design-patterns)
+[Design book](https://refactoring.guru/design-patterns)
 
 ### Algorithms
 [Algorithms in JavaScript 🇷🇺](https://youtube.com/playlist?list=PLvWwA9iDlhHB1qp22la3mn01JuVOwyuqw)
@@ -73,6 +77,10 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [Just JavaScript book by Dan Abramov](https://justjavascript.com/)
 
 [The this keyword in JavaScript. The Complete* Guide 🇷🇺](https://habr.com/ru/post/464163/)
+
+[Design and perfomance patterns](https://www.patterns.dev/posts/)
+
+[BFE - Practice Front-End coding problems](https://bigfrontend.dev/)
 
 ### TypeScript
 [TypeScript type challenges](https://github.com/type-challenges/type-challenges)
@@ -110,6 +118,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 
+[Tao of React](https://alexkondov.com/tao-of-react/)
+
 ## UI
 ### Animations
 [Animating Layouts with the FLIP Technique](https://css-tricks.com/animating-layouts-with-the-flip-technique/)
@@ -126,6 +136,9 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
 
 [Inclusive Components](https://inclusive-components.design/)
+
+### Design
+[Design books](https://www.designbetter.co/books)
 
 ### WebGL
 [WebGL Fundamentals](https://webglfundamentals.org/)
