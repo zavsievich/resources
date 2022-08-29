@@ -13,6 +13,24 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Computer Science: Crash Course](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
+[COMPUTATION STRUCTURES - MIT 2017](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)
+
+[Computer Architecture - CS 61C at UC Berkeley](https://inst.eecs.berkeley.edu/~cs61c/su20/)
+
+[Introduction to Computer Systems - Carnegie 2015](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&view=2&sortColumn=1&sortAscending=true&maxResults=250)
+
+[Live ompiler Explorer](https://godbolt.org/)
+
+[Virtual Memory lecture](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)
+
+### Operating systems
+[CS 162: Operating Systems and System Programming - Berkley](https://inst.eecs.berkeley.edu/~cs162/fa20/)
+
+### Computer Networks
+[Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)
+
+[Learn how the Internet works - Ben Eater](https://eater.net/inet)
+
 ## System design
 [Complete system design course](https://www.educative.io/path/scalability-system-design)
 
@@ -46,6 +64,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [Designing Events-First Microservices](https://youtu.be/1hwuWmMNT4c)
 
 [Clean and Hexagonal Architectures for Dummies](https://medium.com/codex/clean-architecture-for-dummies-df6561d42c94)
+
+[The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 ## Programming
 [Frisby's Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -149,3 +169,31 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 ## Web Security
 [Stanford CS 253](https://web.stanford.edu/class/cs253/)
+
+[CS 253 Web Security videos](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)
+
+[Computer Security textbook](https://textbook.cs161.org/)
+
+[CS 161: Computer Security](https://su20.cs161.org/)
+
+## Math
+[immersive linear algebra](http://immersivemath.com/ila/index.html)
+
+[Discrete Math 1](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
+
+[Discrete Math 2](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
+
+[Math 321 Class Notes - Wichita](https://www.math.wichita.edu/~hammond/math321/discrete-class-notes.html)
+
+[MATHEMATICS FOR CS - MIT 2010](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+
+[LINEAR ALGEBRA - MIT 2011](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+
+[The Math Sorcerer](https://www.youtube.com/c/TheMathSorcerer)
+
+## Common
+### Books
+[Read This Twice - Technology](https://www.readthistwice.com/books/technology)
+
+### Lists
+[Vlad10 - Teach yourself](https://vlad10.notion.site/vlad10/Teach-Yourself-e03b7fd22c07447f91a1501b2d9b90fd)
