@@ -105,6 +105,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 ### TypeScript
 [TypeScript type challenges](https://github.com/type-challenges/type-challenges)
 
+[Type-level TypeScript course](https://type-level-typescript.com/)
+
 ### WebAssembly
 [WebAssembly: tame the dragon 🇷🇺](https://www.youtube.com/watch?v=ehPucx9he5U)
 
