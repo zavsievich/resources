@@ -3,6 +3,7 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 ## Soft Skills
 [Software Engineering at Google 📕](https://abseil.io/resources/swe-book) 
+[Google Project Management](https://www.coursera.org/professional-certificates/google-project-management)
 
 ## CS
 [From Nand to Tetris](https://www.nand2tetris.org/)
