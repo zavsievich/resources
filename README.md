@@ -88,6 +88,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Coursera's Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
 
+[Codevolution - JavaScript Algorithms and Data Structures](https://youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP)
+
 ### JavaScript
 [Programming basics on JavaScript 🇷🇺](https://youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0)
 
