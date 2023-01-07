@@ -6,6 +6,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Google Project Management](https://www.coursera.org/professional-certificates/google-project-management)
 
+[Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)
+
 ## CS
 [From Nand to Tetris](https://www.nand2tetris.org/)
 
