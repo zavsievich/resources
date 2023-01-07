@@ -145,6 +145,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Tao of React](https://alexkondov.com/tao-of-react/)
 
+[Timeline of a React Component With Hooks](https://julesblom.com/writing/react-hook-component-timeline)
+
 ## UI
 ### Animations
 [Animating Layouts with the FLIP Technique](https://css-tricks.com/animating-layouts-with-the-flip-technique/)
@@ -171,6 +173,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [WebGL guide](https://xem.github.io/articles/webgl-guide.html)
 
 [WebGL Tutorial](https://www.tutorialspoint.com/webgl/index.htm)
+
+[Three.js journey](https://threejs-journey.com/)
 
 ## Web Security
 [Stanford CS 253](https://web.stanford.edu/class/cs253/)
