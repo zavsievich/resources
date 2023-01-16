@@ -116,6 +116,9 @@ Learning resources to develop skills across the frontend and related areas. PR's
 ### WebAssembly
 [WebAssembly: tame the dragon 🇷🇺](https://www.youtube.com/watch?v=ehPucx9he5U)
 
+### Databases 
+[Sql 🇷🇺](https://metanit.com/sql/sqlserver/1.1.php)
+
 ## Browser
 [Chromium University lectures (2020)](https://www.youtube.com/playlist?list=PL9ioqAuyl6ULp1f36EEjIN1vSBEfsb-0a)
 
