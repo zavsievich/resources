@@ -27,6 +27,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Virtual Memory lecture](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)
 
+[Zero to Software Architect](https://zerotosoftwarearchitect.com/)
+
 ### Operating systems
 [CS 162: Operating Systems and System Programming - Berkley](https://inst.eecs.berkeley.edu/~cs162/fa20/)
 
