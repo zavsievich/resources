@@ -117,6 +117,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Type-level TypeScript course](https://type-level-typescript.com/)
 
+[Become the TypeScript Wizard](https://www.totaltypescript.com/)
+
 ### WebAssembly
 [WebAssembly: tame the dragon 🇷🇺](https://www.youtube.com/watch?v=ehPucx9he5U)
 
@@ -145,6 +147,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [Build a frontend framework from scratch](https://mfrachet.github.io/create-frontend-framework)
 
 [Rethinking reactivity - Rich Harris](https://www.youtube.com/watch?v=AdNJ3fydeao)
+
+[Scaling SSR applications 🇷🇺](https://superoleg39.notion.site/SSR-04ad1ab46de346edb244a1112bd357a3)
 
 ### React
 [Build your own React](https://pomb.us/build-your-own-react)
