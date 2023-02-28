@@ -214,6 +214,9 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [The Math Sorcerer](https://www.youtube.com/c/TheMathSorcerer)
 
+## Deploys
+[Martin Fowler: Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
+
 ## Common
 ### Books
 [Read This Twice - Technology](https://www.readthistwice.com/books/technology)
