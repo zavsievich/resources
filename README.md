@@ -29,6 +29,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Zero to Software Architect](https://zerotosoftwarearchitect.com/)
 
+[Processor system architecture -- Lectures 🇷🇺](https://youtube.com/playlist?list=PL0def37HEo5KHPjwK7A5bd4RJGg4djPVf)
+
 ### Operating systems
 [CS 162: Operating Systems and System Programming - Berkley](https://inst.eecs.berkeley.edu/~cs162/fa20/)
 
