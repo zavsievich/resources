@@ -86,6 +86,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Design patterns book](https://refactoring.guru/design-patterns)
 
+[Frontend design and performance patterns](https://www.patterns.dev/posts)
+
 ### Algorithms
 [Algorithms in JavaScript 🇷🇺](https://youtube.com/playlist?list=PLvWwA9iDlhHB1qp22la3mn01JuVOwyuqw)
 
