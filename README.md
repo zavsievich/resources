@@ -89,6 +89,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [Frontend design and performance patterns](https://www.patterns.dev/posts)
 
 ### Algorithms
+[Customize LeetCode study plans](https://www.techinterviewhandbook.org/grind75)
+
 [Algorithms in JavaScript 🇷🇺](https://youtube.com/playlist?list=PLvWwA9iDlhHB1qp22la3mn01JuVOwyuqw)
 
 [Algorithms and data structures 🇷🇺](https://youtube.com/playlist?list=PLrS21S1jm43jz48qjdfYNpuIPgL3lNJ_o)
