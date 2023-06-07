@@ -171,6 +171,9 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [The React Handbook: Modern approaches to architecture and feature development for production-ready React apps](https://reacthandbook.dev/)
 
+### Next.js
+[getStaticProps: a collection of guides to help you build modern apps using Next.js.](https://www.getstaticprops.com/)
+
 ## UI
 ### Animations
 [Animating Layouts with the FLIP Technique](https://css-tricks.com/animating-layouts-with-the-flip-technique/)
