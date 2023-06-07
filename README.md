@@ -169,6 +169,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Timeline of a React Component With Hooks](https://julesblom.com/writing/react-hook-component-timeline)
 
+[The React Handbook: Modern approaches to architecture and feature development for production-ready React apps](https://reacthandbook.dev/)
+
 ## UI
 ### Animations
 [Animating Layouts with the FLIP Technique](https://css-tricks.com/animating-layouts-with-the-flip-technique/)
