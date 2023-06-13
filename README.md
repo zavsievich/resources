@@ -31,6 +31,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Processor system architecture -- Lectures 🇷🇺](https://youtube.com/playlist?list=PL0def37HEo5KHPjwK7A5bd4RJGg4djPVf)
 
+[Writing An Interpreter In Go](https://interpreterbook.com/)
+
 ### Operating systems
 [CS 162: Operating Systems and System Programming - Berkley](https://inst.eecs.berkeley.edu/~cs162/fa20/)
 
