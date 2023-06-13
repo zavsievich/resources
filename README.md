@@ -120,6 +120,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [BFE - Practice Front-End coding problems](https://bigfrontend.dev/)
 
+[DMITRY SÒSHNIKOV Blog](http://dmitrysoshnikov.com/)
+
 ### TypeScript
 [TypeScript type challenges](https://github.com/type-challenges/type-challenges)
 
