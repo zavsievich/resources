@@ -242,4 +242,9 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [Vlad10 - Teach yourself](https://vlad10.notion.site/vlad10/Teach-Yourself-e03b7fd22c07447f91a1501b2d9b90fd)
 
 ## Instruments
+### Resumes
 [Indeed - resume builder](https://resumebuilder.indeed.com/)
+
+[Resumake](https://resumake.io/)
+
+[OpenResume - Free Open-source Resume Builder and Parser](https://www.open-resume.com/)
