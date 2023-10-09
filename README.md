@@ -8,6 +8,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)
 
+[Addy Osmani - Soft skill books list](https://addyosmani.com/blog/soft-skills-books/)
+
 ## CS
 [From Nand to Tetris](https://www.nand2tetris.org/)
 
