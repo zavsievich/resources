@@ -128,6 +128,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [DMITRY SÒSHNIKOV Blog](http://dmitrysoshnikov.com/)
 
+[V8 Resources](https://mrale.ph/v8/resources.html)
+
 ### TypeScript
 [TypeScript type challenges](https://github.com/type-challenges/type-challenges)
 
