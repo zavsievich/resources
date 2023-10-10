@@ -35,6 +35,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Writing An Interpreter In Go](https://interpreterbook.com/)
 
+[An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+
 ### Operating systems
 [CS 162: Operating Systems and System Programming - Berkley](https://inst.eecs.berkeley.edu/~cs162/fa20/)
 
