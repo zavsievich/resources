@@ -10,6 +10,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Addy Osmani - Soft skill books list](https://addyosmani.com/blog/soft-skills-books/)
 
+[Be a Great Mentor: A Practical Guide to Mentorship](https://www.udemy.com/course/be-a-great-mentor-a-practical-guide-to-mentoring/)
+
 ## CS
 [From Nand to Tetris](https://www.nand2tetris.org/)
 
