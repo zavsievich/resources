@@ -249,6 +249,9 @@ Learning resources to develop skills across the frontend and related areas. PR's
 ### Lists
 [Vlad10 - Teach yourself](https://vlad10.notion.site/vlad10/Teach-Yourself-e03b7fd22c07447f91a1501b2d9b90fd)
 
+### Guides
+[Harvard resume tips](https://cdn-careerservices.fas.harvard.edu/wp-content/uploads/sites/161/2023/04/HES_resume-and-letter_2022-final.pdf)
+
 ## Instruments
 ### Resumes
 [Indeed - resume builder](https://resumebuilder.indeed.com/)
