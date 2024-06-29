@@ -98,6 +98,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Frontend design and performance patterns](https://www.patterns.dev/posts)
 
+[Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+
 ### Algorithms
 [Customize LeetCode study plans](https://www.techinterviewhandbook.org/grind75)
 
