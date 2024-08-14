@@ -41,6 +41,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Learn computer science by writing code](https://csprimer.com)
 
+[A Unified Theory of Garbage Collection](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf)
+
 ### Operating systems
 [CS 162: Operating Systems and System Programming - Berkley](https://inst.eecs.berkeley.edu/~cs162/fa20/)
 
