@@ -12,6 +12,9 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Be a Great Mentor: A Practical Guide to Mentorship](https://www.udemy.com/course/be-a-great-mentor-a-practical-guide-to-mentoring/)
 
+## Engineering management
+[The Engineering Manager's Booklist 📕](https://github.com/jesselpalmer/the-engineering-managers-booklist)
+
 ## CS
 [From Nand to Tetris](https://www.nand2tetris.org/)
 
