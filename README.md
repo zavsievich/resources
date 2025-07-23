@@ -50,7 +50,9 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Dmitriy Zhiganov. Frontend System Design](https://www.youtube.com/playlist?list=PL4OG1laG0gW_AcchCg1_adOzDAtnxMjPN)
 
-[]
+[Evgenii Ray. Front-End System Design](https://www.youtube.com/playlist?list=PLI9W87-Dqn7j_x6QtR6sUjycJR7nQLBqT)
+
+[GreatFrontEnd. Front End System Design Playbook](https://www.greatfrontend.com/front-end-system-design-playbook)
 
 ### Operating systems
 [CS 162: Operating Systems and System Programming - Berkley](https://inst.eecs.berkeley.edu/~cs162/fa20/)
