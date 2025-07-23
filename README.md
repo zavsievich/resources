@@ -235,6 +235,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 ### Design
 [Design books](https://www.designbetter.co/books)
 
+[Design good practices](https://goodpractices.design/)
+
 ### WebGL
 [WebGL Fundamentals](https://webglfundamentals.org/)
 
