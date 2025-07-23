@@ -46,6 +46,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [A Unified Theory of Garbage Collection](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf)
 
+[Princeton. Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)
+
 ### Operating systems
 [CS 162: Operating Systems and System Programming - Berkley](https://inst.eecs.berkeley.edu/~cs162/fa20/)
 
@@ -121,6 +123,14 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [Coursera's Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
 
 [Codevolution - JavaScript Algorithms and Data Structures](https://youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP)
+
+[MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+
+[Princeton. Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+
+[Princeton. Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+
+[Princeton. Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
 
 ### JavaScript
 [Programming basics on JavaScript 🇷🇺](https://youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0)
