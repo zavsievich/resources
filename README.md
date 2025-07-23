@@ -15,7 +15,7 @@ Learning resources to develop skills across the frontend and related areas. PR's
 ## Engineering management
 [The Engineering Manager's Booklist 📕](https://github.com/jesselpalmer/the-engineering-managers-booklist)
 
-## CS
+## Computer science
 [From Nand to Tetris](https://www.nand2tetris.org/)
 
 [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
@@ -47,6 +47,10 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [A Unified Theory of Garbage Collection](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf)
 
 [Princeton. Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)
+
+[Dmitriy Zhiganov. Frontend System Design](https://www.youtube.com/playlist?list=PL4OG1laG0gW_AcchCg1_adOzDAtnxMjPN)
+
+[]
 
 ### Operating systems
 [CS 162: Operating Systems and System Programming - Berkley](https://inst.eecs.berkeley.edu/~cs162/fa20/)
@@ -131,6 +135,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [Princeton. Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 
 [Princeton. Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
+
+[Frontend Masters. The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms)
 
 ### JavaScript
 [Programming basics on JavaScript 🇷🇺](https://youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0)
